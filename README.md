@@ -1,2 +1,2 @@
 # AgentPannel
-panel for agents for creating camaings
+pannel for agents for creating camaings
