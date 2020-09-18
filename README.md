@@ -1,5 +1,5 @@
 # AgentPannel
-pannel for agents for creating camaings
+pannel for agents for managing documents
 
 
 Run this for open the 80 port for out side
